@@ -1,0 +1,10 @@
+header  {
+	width: auto;
+	text-align: center;
+	height: 300px;
+	font-size: 48;
+	background-image: url(copenhagen.jpg);
+}
+#subhead {
+	text-align: center;
+}
